@@ -1,5 +1,7 @@
 
 msg: Welcome to Kolkata
+server:
+   port:9191
 spring:
    boot:
      admin:
