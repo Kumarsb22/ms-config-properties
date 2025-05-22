@@ -1,6 +1,6 @@
 server:
   port: 9191
-msg: Welcome to Kolkata
+msg: Congrts Kumar Balambeed you have successfully implemented the Spring cloud config server in your application
 # server:
 #    port:9191
 # spring:
