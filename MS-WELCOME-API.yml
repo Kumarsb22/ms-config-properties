@@ -1,3 +1,5 @@
+server:
+  port: 9191
 msg: Welcome to Kolkata
 # server:
 #    port:9191
