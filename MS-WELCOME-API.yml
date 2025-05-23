@@ -1,6 +1,15 @@
 server:
   port: 9191
 msg: Hello Nagaraj welcome to Config server turtorial from Kumar 
+
+nic:
+  aeologi:
+        emp:
+         name: Kumar Balambeed
+         age: 26
+         email: kumarsb020@gmail.com
+         designation: Software Developer
+         location: Kolkata
 # server:
 #    port:9191
 # spring:
