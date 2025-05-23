@@ -9,8 +9,8 @@ msg: Hello Nagaraj welcome to Config server turtorial from Kumar
 #       client:
 #         url: http://localhost:8081
         
-# management:
-#   endpoints:
-#     web:
-#       exposure:
-#         include: '*'
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
