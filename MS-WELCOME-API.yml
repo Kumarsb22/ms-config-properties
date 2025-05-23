@@ -1,6 +1,6 @@
 server:
   port: 9191
-msg: Hello Nagaraj welcome to Config server turtorial from Kumar 
+msg: default profile
 
 nic:
   aeologi:
