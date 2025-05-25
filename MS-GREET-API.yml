@@ -1,4 +1,5 @@
-
+server:
+  port: 9091
 msg: Good Afternoot
 spring:
    boot:
